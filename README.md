@@ -50,7 +50,6 @@ composer install
 ```
 cp .env.example .env
 ```
-.env dosyasındaki veritabanı ayarlarını kendi sisteminize göre düzenleyin.
 
 Veritabanını oluşturun ve migrasyonları çalıştırın:
 
