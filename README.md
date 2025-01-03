@@ -60,4 +60,3 @@ Uygulamayı başlatın:
 ```
 php artisan serve
 ```
-Tarayıcınızda http://localhost:8000 adresine giderek uygulamayı görüntüleyebilirsiniz. 
